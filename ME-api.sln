@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ME-api", "ME-api.csproj", "{9FB963F5-A932-4444-BD95-02902E82483E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FB963F5-A932-4444-BD95-02902E82483E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB963F5-A932-4444-BD95-02902E82483E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB963F5-A932-4444-BD95-02902E82483E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB963F5-A932-4444-BD95-02902E82483E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D78A49B-2E10-470F-AB58-08862A6986D1}
+	EndGlobalSection
+EndGlobal
